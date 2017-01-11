@@ -1,0 +1,19 @@
+{
+  "name": "senny_nadia_josh_workflow",
+  "version": "1.0.0",
+  "description": "## Hey Guys. Making first change to the project!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nadia28/senny_nadia_josh_workflow.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadia28/senny_nadia_josh_workflow/issues"
+  },
+  "homepage": "https://github.com/nadia28/senny_nadia_josh_workflow#readme"
+}
